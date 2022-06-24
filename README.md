@@ -1,7 +1,7 @@
 # Haberim
 Mobile News Application with User-Created and Playable Content
 
-Screenshot
+
 ![alt text](https://github.com/Aliyildirim58/Haberim/blob/main/Haberim/lib/assets/Screenshot/l.jpg)
 ![alt text](https://github.com/Aliyildirim58/Haberim/blob/main/Haberim/lib/assets/Screenshot/r.jpg)
 ![alt text](https://github.com/Aliyildirim58/Haberim/blob/main/Haberim/lib/assets/Screenshot/a.jpg)
